@@ -1,0 +1,80 @@
+.divCc {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.68);
+    margin: auto;
+    width: 450px;
+    height: 310px;
+    position: relative;
+    top: 40px;
+}
+
+label {
+    font-style: bold;
+    font-size: 24px;
+}
+
+.botaoMovimentacao {
+    top: 90px;
+    width: 170px;
+    height: 55px;
+    font-size: 30px;
+    background-color: rgba(44, 216, 194, 0.6);
+    font-family: 'MagicalStory', Times, serif;
+    position: relative;
+}
+
+.confirmarMovimentacao {
+    top: 4.5px;
+    position: relative;
+}
+
+.tituloContaCorrente {
+    font-size: 40px;
+}
+
+.labelDeposito {
+    position: relative;
+    top: 50px;
+    right: 29px;
+}
+
+.labelSaque{
+    position: relative;
+    right: 43px;
+    top: 63px;
+}
+
+.inputDeposito {
+    position: relative;
+    top: 50px;
+    width: 190px;
+    height: 30px;
+    left: 1px;
+}
+
+.inputSaque {
+    position: relative;
+    width: 190px;
+    height: 30px;
+    left: 15px;
+    top: 63px;
+}
+
+.nomeCliente {
+    top: 20px;
+    position: relative;
+    text-decoration: underline;
+    font-family: 'Avenue', Times, serif;
+}
+
+.divSaldo {
+    top: 395px;
+    height: 37px;
+    width: 1456px;
+    position: relative;
+    text-align: justify;
+    background-color: rgba(44, 216, 194, 0.40);
+    font-size: 30px;
+    right: 503px;
+    font-family: 'Avenue', Times, serif;
+}

@@ -1,0 +1,32 @@
+
+.divErro {
+    text-align: center;
+    position: relative;
+    font-family: 'HalloweenDay', Times, serif;
+    text-decoration: none;
+    background-color: rgba(105, 105, 105, 0.91);
+    
+}
+
+.img1 {
+    right: 900px;
+    position: absolute;
+    width: 420px;
+    top: 17px;
+}
+
+.img2 {
+    transform: rotateY(180deg);
+    width: 240px;
+    top: 303px;
+    position: absolute;
+    right: 1px;
+}
+
+.h1Erro {
+    font-size: 110px;
+}
+
+.pErro {
+    font-size: 50px
+}

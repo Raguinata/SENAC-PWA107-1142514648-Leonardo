@@ -1,0 +1,64 @@
+.h1Cf {
+    font-size: 40px;
+}
+
+.divInterface {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.68);
+    margin: auto;
+    position: relative;
+    top: 40px;
+    height: 320px;
+    width: 450px;
+}
+
+.labelValorSolicitadoInput {
+    position: relative;
+    top: 55px;
+    right: 15px;
+}
+
+.inputValorSolicitado {
+    position: relative;
+    top: 55px;
+    width: 190px;
+    height: 30px;
+    left: 15px;
+}
+
+
+.botaoFinanciamento {
+    top: 90px;
+    width: 170px;
+    height: 55px;
+    font-size: 30px;
+    background-color: rgba(44, 216, 194, 0.6);
+    font-family: 'MagicalStory', Times, serif;
+    position: relative;
+}
+
+.botaoCalcular {
+    top: 4.5px;
+    position: relative;
+}
+
+.divInformacoesFinanciamento {
+    position: relative;
+    top: 220px;
+    height: 195px;
+    width: 1456px;
+    position: relative;
+    text-align: center;
+    background-color: rgba(44, 216, 194, 0.40);
+    font-size: 30px;
+    right: 503px;
+    font-family: 'Avenue', Times, serif;
+}
+
+.img1Cf {
+    position: absolute;
+    width: 610px;
+    right: 380px;
+    top: 10px;
+}
+

@@ -1,0 +1,38 @@
+.fotoSobre {
+    position: absolute;
+    max-width: 1500px;
+    max-height: 1500px;
+    width: auto;
+    height: auto;
+    right: 470px;
+    top: 140px;
+}
+
+.fotoSobre2 {
+    transform: rotateY(180deg);
+    position: absolute;
+    max-width: 1500px;
+    max-height: 1500px;
+    width: auto;
+    height: auto;
+    left: 470px;
+    top: 140px;
+}
+
+.sobreH1 {
+    font-size: 40px;
+}
+
+.sobreP {
+    font-size: 18px;
+}
+
+.sobreDiv {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.68);
+    width: 38%;
+    margin: auto;
+    height: 270px;
+    position: relative;
+    top: 40px;
+}

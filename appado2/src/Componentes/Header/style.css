@@ -1,0 +1,156 @@
+@font-face {
+    font-family: MagicalStory;
+    src: url('fontes/Magical\ Story.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Avenue;
+    src:  url('./fontes/MADEAvenuePERSONALUSE-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: HalloweenDay;
+    src: url('./fontes/Halloween\ Day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: #2cd8c2;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+    
+}
+
+.titulo {
+    font-family: 'MagicalStory', Times, serif;
+    font-size: 39px;
+    font-style: normal;
+    padding: 0px 50px;
+    left: 70px;
+    position: relative;
+    top: 10px;
+}
+
+header a{
+    color: black;
+    font-size: 20px;
+    padding: 0px 24px;
+}
+
+body {
+    color: black;
+
+    background-image: url(./Background.png);
+    background-size: 40%;
+    background-position: 100px;
+    position: sticky;
+}
+
+.logo {
+    max-width: 80px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+}
+
+.menu {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.68);
+    width: 50%;
+    margin: auto;
+    height: 95px;
+    position: fixed;
+}
+
+.quadradohome {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.80);
+    width: 9%;
+    margin: auto;
+    height: 95px;
+    left: 227.5px;
+    position: relative;
+}
+
+.linkhome {
+    position: relative;
+    top: 36.5px;
+    text-decoration: none;
+    
+}
+
+.quadradocc {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.80);
+    width: 14.8%;
+    margin: auto;
+    height: 95px;
+    left: 162px;
+    position: relative;
+}
+
+.linkcc {
+    position: relative;
+    top: 36.5px;
+    text-decoration: none;
+}
+
+.linkcadastro {
+    position: relative;
+    left: 194px;
+    text-decoration: none;
+}
+
+.quadradosobre {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.80);
+    width: 11.5%;
+    margin: auto;
+    height: 95px;
+    left: 96px;
+    position: relative;
+}
+
+.linksobre {
+    position: relative;
+    top: 36.5px;
+    text-decoration: none;
+}
+
+.linkcf {
+    position: relative;
+    left: 130px;
+    text-decoration: none;
+}
+
+.fototitulo {
+    position: absolute;
+    transform: rotateY(180deg);
+    max-width: 97px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    left: 10px;
+    top: 1.8px;
+}
+
+
+
+
+

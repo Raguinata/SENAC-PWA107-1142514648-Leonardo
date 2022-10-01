@@ -1,0 +1,96 @@
+.divCadastro {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.68);
+    margin: auto;
+    width: 650px;
+    height: 320px;
+    position: relative;
+    top: 40px;
+}
+
+.tituloCadastro {
+    font-size: 40px;
+}
+
+label {
+    font-style: bold;
+    font-size: 24px;
+}
+
+.informacoesCadastro {
+    top: 302px;
+    height: 116px;
+    width: 1455px;
+    position: relative;
+    text-align: justify;
+    background-color: rgba(44, 216, 194, 0.40);
+    font-size: 30px;
+    right: 402px;
+    font-family: 'Avenue', Times, serif;
+}
+
+.botaoCadastro {
+    top: 90px;
+    width: 170px;
+    height: 55px;
+    font-size: 30px;
+    background-color: rgba(44, 216, 194, 0.6);
+    font-family: 'MagicalStory', Times, serif;
+    position: relative;
+}
+
+.cadastrarCadastro {
+    top: 4.5px;
+    position: relative;
+}
+
+.labelNome {
+    position: relative;
+    top: 30px;
+    right: 29px;
+}
+
+.labelCpf {
+    position: relative;
+    right: 33px;
+    top: 43px;
+}
+
+.labelEndereco {
+    position: relative;
+    right: 14px;
+    top: 56px;
+}
+
+.inputNome {
+    position: relative;
+    top: 30px;
+    width: 300px;
+    height: 30px;
+    left: 40px;
+}
+
+.inputCpf {
+    position: relative;
+    width: 300px;
+    height: 30px;
+    left: 43px;
+    top: 43px;
+}
+
+.inputEndereco {
+    position: relative;
+    top: 56px;
+    width: 300px;
+    height: 30px;
+    left: 23px;
+}
+
+.fotoCadastro {
+    position: absolute;
+    transform: rotateY(180deg);
+    right: 730px;
+    width: 350px;
+    top: 1px;
+    opacity: 0.9;
+}
